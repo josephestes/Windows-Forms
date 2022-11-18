@@ -17,4 +17,4 @@ The goals for this project are to:
 9. Design and develop programs that implement file processing.
 10. Design and develop event-driven programs that work with a graphical user interface (GUI).
 11. Design and develop programs using object-oriented programming features.
-12.Evaluate and critique effectiveness and efficiency of code.
+12. Evaluate and critique effectiveness and efficiency of code.
