@@ -1,0 +1,12 @@
+[submodule "BbForm"]
+	path = BbForm
+	url = https://github.com/josephestes/BbForm
+	branch = master
+[submodule "EstimatePaintForm"]
+	path = EstimatePaintForm
+	url = https://github.com/josephestes/EstimatePaintForm
+	branch = master
+[submodule "FormDemo"]
+	path = FormDemo
+	url = https://github.com/josephestes/FormDemo
+	branch = master
